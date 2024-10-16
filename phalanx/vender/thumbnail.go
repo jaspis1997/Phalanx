@@ -1,0 +1,5 @@
+package vender
+
+func GenerateThumbnail() {
+
+}
